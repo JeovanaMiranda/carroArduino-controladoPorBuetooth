@@ -1,4 +1,4 @@
-# Carro Arduino Controlado por Buetooth
+# Carro Arduino Controlado por Bluetooth
 Projeto com arduino que possibilita o carro mover-se sendo conduzido pelo celular<br>
 <h2>Componentes utilizados do projeto:</h2>
 <ul>
