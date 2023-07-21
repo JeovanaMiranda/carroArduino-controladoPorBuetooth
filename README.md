@@ -1,6 +1,11 @@
-# Carro Arduino Controlado por Bluetooth
-Projeto com arduino que possibilita o carro mover-se sendo conduzido pelo celular<br>
-<h2>Componentes utilizados do projeto:</h2>
+<h1> Carro Controlado por Bluetooth </h1>
+
+<h2>🎮 Controle sem fios:</h2> Use o seu smartphone via Bluetooth para dirigir!
+
+<h2>📱 App utilizado para controlar:</h2> 
+Bluetooth RC Controller
+
+<h2>🛠️ Componentes Necessários:</h2> 
 <ul>
   <li>Placa Arduino;</li>
   <li>Driver Ponte H L298N;</li>
